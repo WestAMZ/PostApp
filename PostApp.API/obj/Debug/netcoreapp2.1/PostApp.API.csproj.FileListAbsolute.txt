@@ -1,0 +1,14 @@
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\bin\Debug\netcoreapp2.1\PostApp.API.deps.json
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\bin\Debug\netcoreapp2.1\PostApp.API.runtimeconfig.json
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\bin\Debug\netcoreapp2.1\PostApp.API.runtimeconfig.dev.json
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\bin\Debug\netcoreapp2.1\PostApp.API.dll
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\bin\Debug\netcoreapp2.1\PostApp.API.pdb
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\obj\Debug\netcoreapp2.1\PostApp.API.csprojAssemblyReference.cache
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\obj\Debug\netcoreapp2.1\PostApp.API.csproj.CoreCompileInputs.cache
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\obj\Debug\netcoreapp2.1\PostApp.API.RazorAssemblyInfo.cache
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\obj\Debug\netcoreapp2.1\PostApp.API.RazorAssemblyInfo.cs
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\obj\Debug\netcoreapp2.1\PostApp.API.AssemblyInfoInputs.cache
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\obj\Debug\netcoreapp2.1\PostApp.API.AssemblyInfo.cs
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\obj\Debug\netcoreapp2.1\PostApp.API.RazorTargetAssemblyInfo.cache
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\obj\Debug\netcoreapp2.1\PostApp.API.dll
+D:\BackUp\Documents\GitHub\MitoCode\PostApp.API\obj\Debug\netcoreapp2.1\PostApp.API.pdb
